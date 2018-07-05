@@ -5,3 +5,6 @@ ProjectSettings/
 UnityPackageManager/
 Export/
 Assets/ProCore/
+.idea/
+obj/
+Assets/Plugins/
